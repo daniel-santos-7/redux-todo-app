@@ -1,4 +1,4 @@
-# Redux Todo App
+# :memo: Redux Todo App
 
 Pequeno projeto para estudo, utilizando os principais conceitos do redux.
 
@@ -11,4 +11,6 @@ Pequeno projeto para estudo, utilizando os principais conceitos do redux.
 
 ---
 
+<p align="center">
 :coffee: Desenvolvido por Daniel Santos
+</p>
